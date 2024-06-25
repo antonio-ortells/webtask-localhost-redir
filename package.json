@@ -1,5 +1,5 @@
 {
-  "name": "ao-apple-app-site-association",
+  "name": "webtask-localhost-redir",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antonio-ortells/ao-apple-app-site-association.git"
+    "url": "git+https://github.com/antonio-ortells/webtask-localhost-redir.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/antonio-ortells/ao-apple-app-site-association/issues"
+    "url": "https://github.com/antonio-ortells/webtask-localhost-redir/issues"
   },
-  "homepage": "https://github.com/antonio-ortells/ao-apple-app-site-association#readme",
+  "homepage": "https://github.com/antonio-ortells/webtask-localhost-redir#readme",
   "dependencies": {
     "express": "^4.18.2",
     "webtask-tools": "^3.4.1"
